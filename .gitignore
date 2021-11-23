@@ -1,0 +1,8 @@
+# ignore hidden files
+.*
+
+# except .gitignore file
+!.gitignore
+
+# ignore zip files
+.zip
