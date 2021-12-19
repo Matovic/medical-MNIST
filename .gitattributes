@@ -37,7 +37,7 @@ evaluation/*.html linguist-vendored=true
 *.pyi    text diff=python
 
 # Jupyter notebook
-*.ipynb  text diff=Jupyter Notebook
+*.ipynb  text diff="Jupyter Notebook"
 
 # Binary files
 # ============
