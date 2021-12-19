@@ -1,8 +1,11 @@
 # ignore hidden files
 .*
 
-# except .gitignore file
+# except .gitignore & .gitattributes files
 !.gitignore
+!.gitattributes
 
 # ignore zip files
 *.zip
+
+src/saved_model
